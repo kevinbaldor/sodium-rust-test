@@ -1,5 +1,5 @@
 [package]
-name = "sodium-test"
+name = "sodium-rust-test"
 version = "0.1.0"
 authors = ["kbaldor"]
 edition = "2018"
